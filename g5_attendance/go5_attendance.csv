@@ -1,0 +1,485 @@
+game_id,week,season_type,neutral_site,conference_game,venue,home_team,home_conference,home_points,away_team,away_conference,away_points,Date,Attendance
+401643699,1,regular,FALSE,FALSE,Falcon Stadium,Air Force,Mountain West,21,Merrimack,FCS Independents,6,08/31/2024,31658
+401643705,2,regular,FALSE,TRUE,Falcon Stadium,Air Force,Mountain West,7,San José State,Mountain West,17,09/07/2024,22478
+401636860,3,regular,FALSE,FALSE,McLane Stadium,Baylor,Big 12,31,Air Force,Mountain West,3,09/14/2024,46212
+401643718,5,regular,FALSE,TRUE,War Memorial Stadium,Wyoming,Mountain West,31,Air Force,Mountain West,19,09/28/2024,23068
+401643722,6,regular,FALSE,FALSE,Falcon Stadium,Air Force,Mountain West,7,Navy,American Athletic,34,10/05/2024,39441
+401643727,7,regular,FALSE,TRUE,University Stadium (NM),New Mexico,Mountain West,52,Air Force,Mountain West,37,10/12/2024,15561
+401643734,8,regular,FALSE,TRUE,Falcon Stadium,Air Force,Mountain West,13,Colorado State,Mountain West,21,10/19/2024,27598
+401643746,10,regular,FALSE,FALSE,Michie Stadium,Army,American Athletic,20,Air Force,Mountain West,3,11/02/2024,30046
+401643751,11,regular,FALSE,TRUE,Falcon Stadium,Air Force,Mountain West,36,Fresno State,Mountain West,28,11/09/2024,14794
+401643757,12,regular,FALSE,FALSE,Falcon Stadium,Air Force,Mountain West,28,Oregon State,Pac-12,0,11/16/2024,21385
+401643763,13,regular,FALSE,TRUE,Mackay Stadium,Nevada,Mountain West,19,Air Force,Mountain West,22,11/23/2024,12228
+401643768,14,regular,FALSE,TRUE,Snapdragon Stadium,San Diego State,Mountain West,20,Air Force,Mountain West,31,11/30/2024,18045
+401628455,1,regular,FALSE,FALSE,Ohio Stadium,Ohio State,Big Ten,52,Akron,Mid-American,6,08/31/2024,102011
+401628471,2,regular,FALSE,FALSE,SHI Stadium,Rutgers,Big Ten,49,Akron,Mid-American,17,09/07/2024,41021
+401644733,3,regular,FALSE,FALSE,InfoCision Stadium,Akron,Mid-American,31,Colgate,Patriot,20,09/14/2024,8932
+401628370,4,regular,FALSE,FALSE,Williams-Brice Stadium,South Carolina,SEC,50,Akron,Mid-American,7,09/21/2024,78704
+401644738,5,regular,FALSE,TRUE,Peden Stadium,Ohio,Mid-American,30,Akron,Mid-American,10,09/28/2024,21265
+401644740,6,regular,FALSE,TRUE,InfoCision Stadium,Akron,Mid-American,20,Bowling Green,Mid-American,27,10/05/2024,9337
+401644742,7,regular,FALSE,TRUE,Waldo Stadium,Western Michigan,Mid-American,34,Akron,Mid-American,24,10/12/2024,19507
+401644752,9,regular,FALSE,TRUE,InfoCision Stadium,Akron,Mid-American,25,Eastern Michigan,Mid-American,21,10/27/2024,4277
+401644757,10,regular,FALSE,TRUE,InfoCision Stadium,Akron,Mid-American,30,Buffalo,Mid-American,41,11/02/2024,4610
+401644766,12,regular,FALSE,TRUE,Huskie Stadium,Northern Illinois,Mid-American,29,Akron,Mid-American,16,11/13/2024,6795
+401644769,13,regular,FALSE,TRUE,Dix Stadium,Kent State,Mid-American,17,Akron,Mid-American,38,11/19/2024,6768
+401644775,14,regular,FALSE,TRUE,InfoCision Stadium,Akron,Mid-American,21,Toledo,Mid-American,14,11/26/2024,4716
+401634133,1,regular,FALSE,FALSE,Kidd Brewer Stadium,App State,Sun Belt,38,East Tennessee State,Southern,10,08/31/2024,36232
+401635532,2,regular,FALSE,FALSE,"Memorial Stadium (Clemson, SC)",Clemson,ACC,66,App State,Sun Belt,20,09/07/2024,81500
+401643785,3,regular,FALSE,FALSE,Dowdy-Ficklen Stadium,East Carolina,American Athletic,19,App State,Sun Belt,21,09/14/2024,46117
+401643790,4,regular,FALSE,TRUE,Kidd Brewer Stadium,App State,Sun Belt,14,South Alabama,Sun Belt,48,09/19/2024,34133
+401643799,6,regular,FALSE,TRUE,Joan C. Edwards Stadium,Marshall,Sun Belt,52,App State,Sun Belt,37,10/05/2024,28023
+401643806,7,regular,FALSE,TRUE,Cajun Field,Louisiana,Sun Belt,34,App State,Sun Belt,24,10/12/2024,14058
+401643816,9,regular,FALSE,TRUE,Kidd Brewer Stadium,App State,Sun Belt,33,Georgia State,Sun Belt,26,10/26/2024,33783
+401643821,10,regular,FALSE,TRUE,Kidd Brewer Stadium,App State,Sun Belt,28,Old Dominion,Sun Belt,20,11/02/2024,34954
+401643825,11,regular,FALSE,TRUE,Brooks Stadium (SC),Coastal Carolina,Sun Belt,38,App State,Sun Belt,24,11/07/2024,19415
+401643836,13,regular,FALSE,TRUE,Kidd Brewer Stadium,App State,Sun Belt,34,James Madison,Sun Belt,20,11/23/2024,34012
+401643844,14,regular,FALSE,TRUE,Allen E. Paulson Stadium,Georgia Southern,Sun Belt,29,App State,Sun Belt,20,11/30/2024,23383
+401632064,1,regular,FALSE,FALSE,Centennial Bank Stadium,Arkansas State,Sun Belt,34,Central Arkansas,UAC,31,08/31/2024,21708
+401643779,2,regular,FALSE,FALSE,Centennial Bank Stadium,Arkansas State,Sun Belt,28,Tulsa,American Athletic,24,09/07/2024,19316
+401628479,3,regular,FALSE,FALSE,Michigan Stadium,Michigan,Big Ten,28,Arkansas State,Sun Belt,18,09/14/2024,110250
+401636875,4,regular,FALSE,FALSE,Jack Trice Stadium,Iowa State,Big 12,52,Arkansas State,Sun Belt,7,09/21/2024,55428
+401643800,6,regular,FALSE,TRUE,Centennial Bank Stadium,Arkansas State,Sun Belt,18,South Alabama,Sun Belt,16,10/05/2024,21427
+401643808,7,regular,FALSE,TRUE,Bobcat Stadium (TX),Texas State,Sun Belt,41,Arkansas State,Sun Belt,9,10/12/2024,28000
+401643814,8,regular,FALSE,TRUE,M. M. Roberts Stadium,Southern Miss,Sun Belt,28,Arkansas State,Sun Belt,44,10/19/2024,24542
+401643818,9,regular,FALSE,TRUE,Centennial Bank Stadium,Arkansas State,Sun Belt,34,Troy,Sun Belt,31,10/26/2024,17162
+401643827,11,regular,FALSE,TRUE,Cajun Field,Louisiana,Sun Belt,55,Arkansas State,Sun Belt,19,11/09/2024,16451
+401643831,12,regular,FALSE,TRUE,Center Parc Stadium,Georgia State,Sun Belt,20,Arkansas State,Sun Belt,27,11/16/2024,14047
+401643839,13,regular,FALSE,TRUE,Centennial Bank Stadium,Arkansas State,Sun Belt,28,UL Monroe,Sun Belt,21,11/23/2024,14029
+401643847,14,regular,FALSE,TRUE,Centennial Bank Stadium,Arkansas State,Sun Belt,32,Old Dominion,Sun Belt,40,11/30/2024,13584
+401677089,1,postseason,TRUE,FALSE,Hancock Whitney Stadium,Bowling Green,Mid-American,31,Arkansas State,Sun Belt,38,12/26/2024,19582
+401645319,1,regular,FALSE,FALSE,Michie Stadium,Army,American Athletic,42,Lehigh,Patriot,7,08/30/2024,23760
+401645323,2,regular,FALSE,TRUE,FAU Stadium,Florida Atlantic,American Athletic,7,Army,American Athletic,24,09/07/2024,21810
+401645328,4,regular,FALSE,TRUE,Michie Stadium,Army,American Athletic,37,Rice,American Athletic,14,09/21/2024,26654
+401645331,5,regular,FALSE,TRUE,Lincoln Financial Field,Temple,American Athletic,14,Army,American Athletic,42,09/26/2024,13255
+401645339,6,regular,FALSE,TRUE,Chapman Stadium,Tulsa,American Athletic,7,Army,American Athletic,49,10/05/2024,24409
+401645342,7,regular,FALSE,TRUE,Michie Stadium,Army,American Athletic,44,UAB,American Athletic,10,10/12/2024,29002
+401645346,8,regular,FALSE,TRUE,Michie Stadium,Army,American Athletic,45,East Carolina,American Athletic,28,10/19/2024,29044
+401629045,11,regular,FALSE,TRUE,DATCU Stadium,North Texas,American Athletic,3,Army,American Athletic,14,11/09/2024,28519
+401640959,13,regular,TRUE,FALSE,Yankee Stadium,Notre Dame,FBS Independents,49,Army,American Athletic,14,11/23/2024,47342
+401645378,14,regular,FALSE,TRUE,Michie Stadium,Army,American Athletic,29,UTSA,American Athletic,24,11/30/2024,22120
+401673462,15,regular,FALSE,TRUE,Michie Stadium,Army,American Athletic,35,Tulane,American Athletic,14,12/06/2024,14016
+401645383,16,regular,TRUE,TRUE,Northwest Stadium,Army,American Athletic,13,Navy,American Athletic,31,12/14/2024,60726
+401677100,1,postseason,TRUE,FALSE,Independence Stadium,Army,American Athletic,27,Louisiana Tech,Conference USA,6,12/28/2024,34283
+401634181,2,regular,FALSE,FALSE,Scheumann Stadium,Ball State,Mid-American,42,Missouri State,MVFC,34,09/07/2024,10018
+401635544,3,regular,FALSE,FALSE,Hard Rock Stadium,Miami,ACC,62,Ball State,Mid-American,0,09/14/2024,51564
+401644735,4,regular,FALSE,TRUE,Kelly/Shorts Stadium,Central Michigan,Mid-American,37,Ball State,Mid-American,34,09/21/2024,18011
+401643793,5,regular,FALSE,FALSE,Bridgeforth Stadium,James Madison,Sun Belt,63,Ball State,Mid-American,7,09/28/2024,25786
+401644741,6,regular,FALSE,TRUE,Scheumann Stadium,Ball State,Mid-American,42,Western Michigan,Mid-American,45,10/05/2024,10342
+401644743,7,regular,FALSE,TRUE,Dix Stadium,Kent State,Mid-American,35,Ball State,Mid-American,37,10/12/2024,7322
+401628399,8,regular,FALSE,FALSE,FirstBank Stadium,Vanderbilt,SEC,24,Ball State,Mid-American,14,10/19/2024,27884
+401644753,9,regular,FALSE,TRUE,Scheumann Stadium,Ball State,Mid-American,25,Northern Illinois,Mid-American,23,10/26/2024,15318
+401644688,11,regular,FALSE,TRUE,Scheumann Stadium,Ball State,Mid-American,21,Miami (OH),Mid-American,27,11/05/2024,6412
+401644763,12,regular,FALSE,TRUE,UB Stadium,Buffalo,Mid-American,51,Ball State,Mid-American,48,11/12/2024,12708
+401644774,13,regular,FALSE,TRUE,Scheumann Stadium,Ball State,Mid-American,13,Bowling Green,Mid-American,38,11/23/2024,7116
+401644777,14,regular,FALSE,TRUE,Peden Stadium,Ohio,Mid-American,42,Ball State,Mid-American,21,11/29/2024,11804
+401643700,1,regular,FALSE,FALSE,Allen E. Paulson Stadium,Georgia Southern,Sun Belt,45,Boise State,Mountain West,56,08/31/2024,24134
+401628469,2,regular,FALSE,FALSE,Autzen Stadium,Oregon,Big Ten,37,Boise State,Mountain West,34,09/07/2024,58134
+401637162,4,regular,FALSE,FALSE,Albertsons Stadium,Boise State,Mountain West,56,Portland State,Big Sky,14,09/21/2024,36972
+401643719,5,regular,FALSE,FALSE,Albertsons Stadium,Boise State,Mountain West,45,Washington State,Pac-12,24,09/28/2024,37711
+401643723,6,regular,FALSE,TRUE,Albertsons Stadium,Boise State,Mountain West,62,Utah State,Mountain West,30,10/05/2024,37210
+401643728,7,regular,FALSE,TRUE,Clarence T.C. Ching Athletics Complex,Hawai'i,Mountain West,7,Boise State,Mountain West,28,10/12/2024,15194
+401643740,9,regular,FALSE,TRUE,Allegiant Stadium,UNLV,Mountain West,24,Boise State,Mountain West,29,10/25/2024,42228
+401643747,10,regular,FALSE,TRUE,Albertsons Stadium,Boise State,Mountain West,56,San Diego State,Mountain West,24,11/01/2024,36838
+401643752,11,regular,FALSE,TRUE,Albertsons Stadium,Boise State,Mountain West,28,Nevada,Mountain West,21,11/09/2024,37143
+401643758,12,regular,FALSE,TRUE,CEFCU Stadium,San José State,Mountain West,21,Boise State,Mountain West,42,11/16/2024,20517
+401643764,13,regular,FALSE,TRUE,War Memorial Stadium,Wyoming,Mountain West,13,Boise State,Mountain West,17,11/23/2024,18094
+401643769,14,regular,FALSE,FALSE,Albertsons Stadium,Boise State,Mountain West,34,Oregon State,Pac-12,18,11/29/2024,37264
+401673468,15,regular,FALSE,TRUE,Albertsons Stadium,Boise State,Mountain West,21,UNLV,Mountain West,7,12/06/2024,36663
+401677181,1,postseason,TRUE,FALSE,State Farm Stadium,Boise State,Mountain West,14,Penn State,Big Ten,31,12/31/2024,63854
+401644729,1,regular,FALSE,FALSE,Doyt L. Perry Stadium,Bowling Green,Mid-American,41,Fordham,Patriot,17,08/29/2024,12786
+401628470,2,regular,FALSE,FALSE,Beaver Stadium,Penn State,Big Ten,34,Bowling Green,Mid-American,27,09/07/2024,103861
+401628372,4,regular,FALSE,FALSE,Kyle Field,Texas A&M,SEC,26,Bowling Green,Mid-American,20,09/21/2024,99523
+401643795,5,regular,FALSE,FALSE,Doyt L. Perry Stadium,Bowling Green,Mid-American,27,Old Dominion,Sun Belt,30,09/28/2024,19140
+401644744,7,regular,FALSE,TRUE,Doyt L. Perry Stadium,Bowling Green,Mid-American,7,Northern Illinois,Mid-American,17,10/12/2024,9559
+401644748,8,regular,FALSE,TRUE,Doyt L. Perry Stadium,Bowling Green,Mid-American,27,Kent State,Mid-American,6,10/19/2024,20858
+401644754,9,regular,FALSE,TRUE,Glass Bowl,Toledo,Mid-American,26,Bowling Green,Mid-American,41,10/26/2024,29697
+401644760,11,regular,FALSE,TRUE,Kelly/Shorts Stadium,Central Michigan,Mid-American,13,Bowling Green,Mid-American,23,11/05/2024,7832
+401644764,12,regular,FALSE,TRUE,Doyt L. Perry Stadium,Bowling Green,Mid-American,31,Western Michigan,Mid-American,13,11/12/2024,8461
+401644691,14,regular,FALSE,TRUE,Doyt L. Perry Stadium,Bowling Green,Mid-American,12,Miami (OH),Mid-American,28,11/29/2024,9345
+401644727,1,regular,FALSE,FALSE,UB Stadium,Buffalo,Mid-American,30,Lafayette,Patriot,13,08/29/2024,16400
+401628344,2,regular,FALSE,FALSE,Memorial Stadium,Missouri,SEC,38,Buffalo,Mid-American,0,09/07/2024,62621
+401629041,3,regular,FALSE,FALSE,UB Stadium,Buffalo,Mid-American,34,Massachusetts,FBS Independents,3,09/14/2024,15204
+401644736,4,regular,FALSE,TRUE,Huskie Stadium,Northern Illinois,Mid-American,20,Buffalo,Mid-American,23,09/21/2024,18688
+401629032,5,regular,FALSE,FALSE,Pratt & Whitney Stadium,UConn,FBS Independents,47,Buffalo,Mid-American,3,09/28/2024,20347
+401644745,7,regular,FALSE,TRUE,UB Stadium,Buffalo,Mid-American,30,Toledo,Mid-American,15,10/12/2024,13996
+401644749,8,regular,FALSE,TRUE,UB Stadium,Buffalo,Mid-American,41,Western Michigan,Mid-American,48,10/19/2024,18487
+401644755,9,regular,FALSE,TRUE,Peden Stadium,Ohio,Mid-American,47,Buffalo,Mid-American,16,10/26/2024,16048
+401644772,13,regular,FALSE,TRUE,Rynearson Stadium,Eastern Michigan,Mid-American,20,Buffalo,Mid-American,37,11/20/2024,12004
+401644776,14,regular,FALSE,TRUE,UB Stadium,Buffalo,Mid-American,43,Kent State,Mid-American,7,11/26/2024,11916
+401677108,1,postseason,TRUE,FALSE,Thomas A. Robinson National Stadium,Liberty,Conference USA,7,Buffalo,Mid-American,26,01/04/2025,4610
+401644730,1,regular,FALSE,FALSE,Kelly/Shorts Stadium,Central Michigan,Mid-American,66,Central Connecticut,NEC,10,08/29/2024,18055
+401640979,2,regular,TRUE,FALSE,Pitbull Stadium,Florida International,Conference USA,52,Central Michigan,Mid-American,16,09/07/2024,17852
+401628475,3,regular,FALSE,FALSE,"Memorial Stadium (Champaign, IL)",Illinois,Big Ten,30,Central Michigan,Mid-American,9,09/14/2024,51498
+401643721,5,regular,FALSE,FALSE,Kelly/Shorts Stadium,Central Michigan,Mid-American,22,San Diego State,Mountain West,21,09/28/2024,27072
+401644746,7,regular,FALSE,TRUE,Kelly/Shorts Stadium,Central Michigan,Mid-American,25,Ohio,Mid-American,27,10/12/2024,22437
+401644750,8,regular,FALSE,TRUE,Rynearson Stadium,Eastern Michigan,Mid-American,38,Central Michigan,Mid-American,34,10/19/2024,17975
+401644687,9,regular,FALSE,TRUE,Yager Stadium,Miami (OH),Mid-American,46,Central Michigan,Mid-American,7,10/26/2024,10661
+401644765,12,regular,FALSE,TRUE,Glass Bowl,Toledo,Mid-American,37,Central Michigan,Mid-American,10,11/12/2024,14661
+401644770,13,regular,FALSE,TRUE,Kelly/Shorts Stadium,Central Michigan,Mid-American,16,Western Michigan,Mid-American,14,11/19/2024,13102
+401644779,14,regular,FALSE,TRUE,Huskie Stadium,Northern Illinois,Mid-American,24,Central Michigan,Mid-American,16,11/30/2024,5843
+401643774,1,regular,FALSE,FALSE,Jerry Richardson Stadium,Charlotte,American Athletic,7,James Madison,Sun Belt,30,08/31/2024,15614
+401635537,2,regular,FALSE,FALSE,Kenan Stadium,North Carolina,ACC,38,Charlotte,American Athletic,20,09/07/2024,48431
+401645327,3,regular,FALSE,FALSE,Jerry Richardson Stadium,Charlotte,American Athletic,27,Gardner-Webb,Big South-OVC,26,09/14/2024,16715
+401628486,4,regular,FALSE,FALSE,"Memorial Stadium (Bloomington, IN)",Indiana,Big Ten,52,Charlotte,American Athletic,14,09/21/2024,43109
+401645333,5,regular,FALSE,TRUE,Rice Stadium,Rice,American Athletic,20,Charlotte,American Athletic,21,09/28/2024,17455
+401645340,6,regular,FALSE,TRUE,Jerry Richardson Stadium,Charlotte,American Athletic,55,East Carolina,American Athletic,24,10/05/2024,17102
+401645347,8,regular,FALSE,TRUE,Navy-Marine Corps Memorial Stadium,Navy,American Athletic,51,Charlotte,American Athletic,17,10/19/2024,35094
+401645353,9,regular,FALSE,TRUE,Simmons Bank Liberty Stadium,Memphis,American Athletic,33,Charlotte,American Athletic,28,10/26/2024,25478
+401645356,10,regular,FALSE,TRUE,Jerry Richardson Stadium,Charlotte,American Athletic,3,Tulane,American Athletic,34,10/31/2024,12268
+401645368,12,regular,FALSE,TRUE,Jerry Richardson Stadium,Charlotte,American Athletic,24,South Florida,American Athletic,59,11/16/2024,15030
+401645371,13,regular,FALSE,TRUE,FAU Stadium,Florida Atlantic,American Athletic,27,Charlotte,American Athletic,39,11/23/2024,15066
+401645377,14,regular,FALSE,TRUE,Jerry Richardson Stadium,Charlotte,American Athletic,29,UAB,American Athletic,27,11/30/2024,8091
+401640998,1,regular,FALSE,FALSE,AmFirst Stadium,Jacksonville State,Conference USA,27,Coastal Carolina,Sun Belt,55,08/29/2024,18977
+401628603,2,regular,FALSE,FALSE,Brooks Stadium (SC),Coastal Carolina,Sun Belt,40,William & Mary,CAA,21,09/07/2024,19294
+401643786,3,regular,FALSE,FALSE,Lincoln Financial Field,Temple,American Athletic,20,Coastal Carolina,Sun Belt,28,09/14/2024,13945
+401635558,4,regular,FALSE,FALSE,Brooks Stadium (SC),Coastal Carolina,Sun Belt,24,Virginia,ACC,43,09/21/2024,22104
+401643798,6,regular,FALSE,TRUE,Brooks Stadium (SC),Coastal Carolina,Sun Belt,45,Old Dominion,Sun Belt,37,10/05/2024,18552
+401643803,7,regular,FALSE,TRUE,Bridgeforth Stadium,James Madison,Sun Belt,39,Coastal Carolina,Sun Belt,7,10/10/2024,25622
+401643811,8,regular,FALSE,TRUE,Brooks Stadium (SC),Coastal Carolina,Sun Belt,24,Louisiana,Sun Belt,34,10/19/2024,17812
+401643824,10,regular,FALSE,TRUE,Veterans Memorial Stadium (AL),Troy,Sun Belt,38,Coastal Carolina,Sun Belt,24,11/02/2024,24223
+401643832,12,regular,FALSE,TRUE,Joan C. Edwards Stadium,Marshall,Sun Belt,31,Coastal Carolina,Sun Belt,19,11/16/2024,24175
+401643837,13,regular,FALSE,TRUE,Brooks Stadium (SC),Coastal Carolina,Sun Belt,6,Georgia Southern,Sun Belt,26,11/23/2024,14556
+401643845,14,regular,FALSE,TRUE,Center Parc Stadium,Georgia State,Sun Belt,27,Coastal Carolina,Sun Belt,48,11/30/2024,12606
+401677085,1,postseason,FALSE,FALSE,Brooks Stadium (SC),UTSA,American Athletic,44,Coastal Carolina,Sun Belt,15,12/23/2024,8164
+401628331,1,regular,FALSE,FALSE,DKR-Texas Memorial Stadium,Texas,SEC,52,Colorado State,Mountain West,0,08/31/2024,99171
+401643706,2,regular,FALSE,FALSE,Canvas Stadium,Colorado State,Mountain West,38,Northern Colorado,Big Sky,17,09/07/2024,36573
+401636861,3,regular,FALSE,FALSE,Canvas Stadium,Colorado State,Mountain West,9,Colorado,Big 12,28,09/14/2024,40099
+401641028,4,regular,FALSE,FALSE,Canvas Stadium,Colorado State,Mountain West,27,UTEP,Conference USA,17,09/21/2024,29151
+401643724,6,regular,FALSE,FALSE,Reser Stadium,Oregon State,Pac-12,39,Colorado State,Mountain West,31,10/05/2024,36433
+401643729,7,regular,FALSE,TRUE,Canvas Stadium,Colorado State,Mountain West,31,San José State,Mountain West,24,10/12/2024,27280
+401643741,9,regular,FALSE,TRUE,Canvas Stadium,Colorado State,Mountain West,17,New Mexico,Mountain West,6,10/26/2024,36980
+401643748,10,regular,FALSE,TRUE,Mackay Stadium,Nevada,Mountain West,21,Colorado State,Mountain West,38,11/02/2024,16019
+401643759,12,regular,FALSE,TRUE,Canvas Stadium,Colorado State,Mountain West,24,Wyoming,Mountain West,10,11/15/2024,36720
+401643765,13,regular,FALSE,TRUE,Valley Children's Stadium,Fresno State,Mountain West,28,Colorado State,Mountain West,22,11/23/2024,39543
+401643770,14,regular,FALSE,TRUE,Canvas Stadium,Colorado State,Mountain West,42,Utah State,Mountain West,37,11/29/2024,24772
+401677188,1,postseason,TRUE,FALSE,Arizona Stadium,Colorado State,Mountain West,17,Miami (OH),Mid-American,43,12/28/2024,40076
+401645320,1,regular,FALSE,FALSE,Dowdy-Ficklen Stadium,East Carolina,American Athletic,42,Norfolk State,MEAC,3,08/31/2024,36467
+401643778,2,regular,FALSE,FALSE,S.B. Ballard Stadium,Old Dominion,Sun Belt,14,East Carolina,American Athletic,20,09/07/2024,21944
+401640991,4,regular,FALSE,FALSE,Williams Stadium (VA),Liberty,Conference USA,35,East Carolina,American Athletic,24,09/21/2024,24076
+401645334,5,regular,FALSE,TRUE,Dowdy-Ficklen Stadium,East Carolina,American Athletic,30,UTSA,American Athletic,20,09/28/2024,41851
+401645352,9,regular,FALSE,TRUE,Dowdy-Ficklen Stadium,East Carolina,American Athletic,56,Temple,American Athletic,34,10/26/2024,33744
+401645361,11,regular,FALSE,TRUE,Dowdy-Ficklen Stadium,East Carolina,American Athletic,49,Florida Atlantic,American Athletic,14,11/07/2024,30573
+401645365,12,regular,FALSE,TRUE,Chapman Stadium,Tulsa,American Athletic,31,East Carolina,American Athletic,38,11/14/2024,17979
+401645372,13,regular,FALSE,TRUE,DATCU Stadium,North Texas,American Athletic,28,East Carolina,American Athletic,40,11/23/2024,17387
+401645379,14,regular,FALSE,TRUE,Dowdy-Ficklen Stadium,East Carolina,American Athletic,20,Navy,American Athletic,34,11/29/2024,35663
+401677098,1,postseason,TRUE,FALSE,Navy-Marine Corps Memorial Stadium,NC State,ACC,21,East Carolina,American Athletic,26,12/28/2024,23981
+401629039,1,regular,FALSE,FALSE,Warren McGuirk Alumni Stadium,Massachusetts,FBS Independents,14,Eastern Michigan,Mid-American,28,08/31/2024,12810
+401628473,2,regular,FALSE,FALSE,Husky Stadium,Washington,Big Ten,30,Eastern Michigan,Mid-American,9,09/07/2024,64222
+401640999,3,regular,FALSE,FALSE,Rynearson Stadium,Eastern Michigan,Mid-American,37,Jacksonville State,Conference USA,34,09/14/2024,17501
+401644737,4,regular,FALSE,FALSE,Rynearson Stadium,Eastern Michigan,Mid-American,36,St. Francis (PA),NEC,0,09/21/2024,15509
+401644739,5,regular,FALSE,TRUE,Dix Stadium,Kent State,Mid-American,33,Eastern Michigan,Mid-American,52,09/28/2024,10899
+401644685,7,regular,FALSE,TRUE,Rynearson Stadium,Eastern Michigan,Mid-American,14,Miami (OH),Mid-American,38,10/12/2024,16903
+401644758,10,regular,FALSE,TRUE,Rynearson Stadium,Eastern Michigan,Mid-American,28,Toledo,Mid-American,29,11/02/2024,13044
+401644767,12,regular,FALSE,TRUE,Peden Stadium,Ohio,Mid-American,35,Eastern Michigan,Mid-American,10,11/13/2024,14133
+401644780,14,regular,FALSE,TRUE,Waldo Stadium,Western Michigan,Mid-American,26,Eastern Michigan,Mid-American,18,11/30/2024,11263
+401628449,1,regular,FALSE,FALSE,"Memorial Stadium (Bloomington, IN)",Indiana,Big Ten,31,Florida International,Conference USA,7,08/31/2024,44150
+401640980,3,regular,FALSE,FALSE,FAU Stadium,Florida Atlantic,American Athletic,38,Florida International,Conference USA,20,09/14/2024,24283
+401628625,4,regular,TRUE,FALSE,Pitbull Stadium,Florida International,Conference USA,42,Monmouth,CAA,45,09/21/2024,17922
+401640981,5,regular,TRUE,TRUE,Pitbull Stadium,Florida International,Conference USA,17,Louisiana Tech,Conference USA,10,09/28/2024,12425
+401640982,7,regular,FALSE,TRUE,Williams Stadium (VA),Liberty,Conference USA,31,Florida International,Conference USA,24,10/08/2024,16343
+401640983,8,regular,FALSE,TRUE,Sun Bowl,UTEP,Conference USA,30,Florida International,Conference USA,21,10/16/2024,11373
+401640984,9,regular,TRUE,TRUE,Pitbull Stadium,Florida International,Conference USA,7,Sam Houston,Conference USA,10,10/22/2024,10625
+401640985,10,regular,TRUE,TRUE,Pitbull Stadium,Florida International,Conference USA,34,New Mexico State,Conference USA,13,10/29/2024,9103
+401640986,12,regular,FALSE,TRUE,AmFirst Stadium,Jacksonville State,Conference USA,34,Florida International,Conference USA,31,11/16/2024,17688
+401640987,13,regular,FALSE,TRUE,Fifth Third Stadium,Kennesaw State,Conference USA,27,Florida International,Conference USA,26,11/23/2024,6210
+401640988,14,regular,TRUE,TRUE,Pitbull Stadium,Florida International,Conference USA,35,Middle Tennessee,Conference USA,24,11/30/2024,8962
+401628453,1,regular,FALSE,FALSE,Spartan Stadium,Michigan State,Big Ten,16,Florida Atlantic,American Athletic,10,08/30/2024,70271
+401629031,4,regular,FALSE,FALSE,Pratt & Whitney Stadium,UConn,FBS Independents,48,Florida Atlantic,American Athletic,14,09/21/2024,20144
+401645335,5,regular,FALSE,FALSE,FAU Stadium,Florida Atlantic,American Athletic,41,Wagner,NEC,10,09/28/2024,21151
+401645343,7,regular,FALSE,TRUE,FAU Stadium,Florida Atlantic,American Athletic,37,North Texas,American Athletic,41,10/12/2024,14576
+401645348,8,regular,FALSE,TRUE,Alamodome,UTSA,American Athletic,38,Florida Atlantic,American Athletic,24,10/19/2024,20802
+401645357,10,regular,FALSE,TRUE,FAU Stadium,Florida Atlantic,American Athletic,21,South Florida,American Athletic,44,11/01/2024,20111
+401645369,12,regular,FALSE,TRUE,Lincoln Financial Field,Temple,American Athletic,18,Florida Atlantic,American Athletic,15,11/16/2024,12291
+401645380,14,regular,FALSE,TRUE,Chapman Stadium,Tulsa,American Athletic,16,Florida Atlantic,American Athletic,63,11/30/2024,15243
+401628452,1,regular,FALSE,FALSE,Michigan Stadium,Michigan,Big Ten,30,Fresno State,Mountain West,10,08/31/2024,110665
+401643707,2,regular,FALSE,FALSE,Valley Children's Stadium,Fresno State,Mountain West,46,Sacramento State,Big Sky,30,09/07/2024,41031
+401641033,3,regular,FALSE,FALSE,Valley Children's Stadium,Fresno State,Mountain West,48,New Mexico State,Conference USA,0,09/14/2024,39079
+401643711,4,regular,FALSE,TRUE,University Stadium (NM),New Mexico,Mountain West,21,Fresno State,Mountain West,38,09/21/2024,18019
+401643720,5,regular,FALSE,TRUE,Allegiant Stadium,UNLV,Mountain West,59,Fresno State,Mountain West,14,09/28/2024,24638
+401643730,7,regular,FALSE,FALSE,Valley Children's Stadium,Fresno State,Mountain West,17,Washington State,Pac-12,25,10/12/2024,41031
+401643735,8,regular,FALSE,TRUE,Mackay Stadium,Nevada,Mountain West,21,Fresno State,Mountain West,24,10/18/2024,18319
+401643742,9,regular,FALSE,TRUE,Valley Children's Stadium,Fresno State,Mountain West,33,San José State,Mountain West,10,10/26/2024,41343
+401643749,10,regular,FALSE,TRUE,Valley Children's Stadium,Fresno State,Mountain West,20,Hawai'i,Mountain West,21,11/02/2024,41575
+401628570,14,regular,FALSE,FALSE,Rose Bowl,UCLA,Big Ten,20,Fresno State,Mountain West,13,11/30/2024,35018
+401677086,1,postseason,TRUE,FALSE,Albertsons Stadium,Fresno State,Mountain West,20,Northern Illinois,Mid-American,28,12/23/2024,10359
+401643708,2,regular,FALSE,FALSE,Mackay Stadium,Nevada,Mountain West,17,Georgia Southern,Sun Belt,20,09/07/2024,16245
+401643787,3,regular,FALSE,FALSE,Allen E. Paulson Stadium,Georgia Southern,Sun Belt,42,South Carolina State,MEAC,14,09/14/2024,21617
+401628366,4,regular,FALSE,FALSE,Vaught-Hemingway Stadium,Ole Miss,SEC,52,Georgia Southern,Sun Belt,13,09/21/2024,67505
+401643792,5,regular,FALSE,TRUE,Center Parc Stadium,Georgia State,Sun Belt,21,Georgia Southern,Sun Belt,38,09/28/2024,18808
+401643804,7,regular,FALSE,TRUE,Allen E. Paulson Stadium,Georgia Southern,Sun Belt,24,Marshall,Sun Belt,23,10/12/2024,24048
+401643812,8,regular,FALSE,TRUE,Allen E. Paulson Stadium,Georgia Southern,Sun Belt,28,James Madison,Sun Belt,14,10/19/2024,20153
+401643815,9,regular,FALSE,TRUE,S.B. Ballard Stadium,Old Dominion,Sun Belt,47,Georgia Southern,Sun Belt,19,10/24/2024,18281
+401643823,10,regular,FALSE,TRUE,Hancock Whitney Stadium,South Alabama,Sun Belt,30,Georgia Southern,Sun Belt,34,11/02/2024,19667
+401643830,12,regular,FALSE,TRUE,Allen E. Paulson Stadium,Georgia Southern,Sun Belt,20,Troy,Sun Belt,28,11/16/2024,21762
+401677082,1,postseason,TRUE,FALSE,Caesars Superdome,Sam Houston,Conference USA,31,Georgia Southern,Sun Belt,26,12/19/2024,13151
+401634302,1,regular,FALSE,FALSE,Bobby Dodd Stadium,Georgia Tech,ACC,35,Georgia State,Sun Belt,12,08/31/2024,40113
+401632459,2,regular,FALSE,FALSE,Center Parc Stadium,Georgia State,Sun Belt,24,Chattanooga,Southern,21,09/07/2024,0
+401628362,3,regular,FALSE,FALSE,Center Parc Stadium,Georgia State,Sun Belt,36,Vanderbilt,SEC,32,09/14/2024,14413
+401643805,7,regular,FALSE,TRUE,Center Parc Stadium,Georgia State,Sun Belt,14,Old Dominion,Sun Belt,21,10/12/2024,12280
+401643810,8,regular,FALSE,TRUE,Joan C. Edwards Stadium,Marshall,Sun Belt,35,Georgia State,Sun Belt,20,10/17/2024,20703
+401629036,10,regular,FALSE,FALSE,Pratt & Whitney Stadium,UConn,FBS Independents,34,Georgia State,Sun Belt,27,11/01/2024,22028
+401643826,11,regular,FALSE,TRUE,Bridgeforth Stadium,James Madison,Sun Belt,38,Georgia State,Sun Belt,7,11/09/2024,25709
+401643842,13,regular,FALSE,TRUE,Bobcat Stadium (TX),Texas State,Sun Belt,44,Georgia State,Sun Belt,52,11/23/2024,18271
+401643858,1,regular,FALSE,FALSE,Clarence T.C. Ching Athletics Complex,Hawai'i,Mountain West,35,Delaware State,MEAC,14,08/24/2024,12206
+401628459,1,regular,FALSE,FALSE,Clarence T.C. Ching Athletics Complex,Hawai'i,Mountain West,13,UCLA,Big Ten,16,08/31/2024,15194
+401641040,3,regular,FALSE,FALSE,Elliott T. Bowers Stadium,Sam Houston,Conference USA,31,Hawai'i,Mountain West,13,09/14/2024,15134
+401643712,4,regular,FALSE,FALSE,Clarence T.C. Ching Athletics Complex,Hawai'i,Mountain West,36,Northern Iowa,MVFC,7,09/21/2024,11402
+401643725,6,regular,FALSE,TRUE,Snapdragon Stadium,San Diego State,Mountain West,27,Hawai'i,Mountain West,24,10/05/2024,31307
+401643736,8,regular,FALSE,FALSE,Gesa Field,Washington State,Pac-12,42,Hawai'i,Mountain West,10,10/19/2024,25112
+401643743,9,regular,FALSE,TRUE,Clarence T.C. Ching Athletics Complex,Hawai'i,Mountain West,34,Nevada,Mountain West,13,10/26/2024,12006
+401643753,11,regular,FALSE,TRUE,Clarence T.C. Ching Athletics Complex,Hawai'i,Mountain West,27,UNLV,Mountain West,29,11/09/2024,12691
+401643760,12,regular,FALSE,TRUE,Maverik Stadium,Utah State,Mountain West,55,Hawai'i,Mountain West,10,11/16/2024,13348
+401643771,14,regular,FALSE,TRUE,Clarence T.C. Ching Athletics Complex,Hawai'i,Mountain West,38,New Mexico,Mountain West,30,11/30/2024,12046
+401635535,2,regular,FALSE,FALSE,L&N Federal Credit Union Stadium,Louisville,ACC,49,Jacksonville State,Conference USA,14,09/07/2024,48575
+401641000,4,regular,FALSE,FALSE,AmFirst Stadium,Jacksonville State,Conference USA,44,Southern Miss,Sun Belt,7,09/21/2024,21788
+401641001,6,regular,FALSE,TRUE,Fifth Third Stadium,Kennesaw State,Conference USA,24,Jacksonville State,Conference USA,63,10/04/2024,10029
+401641002,7,regular,FALSE,TRUE,AmFirst Stadium,Jacksonville State,Conference USA,54,New Mexico State,Conference USA,13,10/09/2024,16555
+401641003,9,regular,FALSE,TRUE,AmFirst Stadium,Jacksonville State,Conference USA,42,Middle Tennessee,Conference USA,20,10/23/2024,17988
+401640994,10,regular,FALSE,TRUE,Williams Stadium (VA),Liberty,Conference USA,21,Jacksonville State,Conference USA,31,10/30/2024,18069
+401641004,11,regular,FALSE,TRUE,Joe Aillet Stadium,Louisiana Tech,Conference USA,37,Jacksonville State,Conference USA,44,11/09/2024,16345
+401641005,13,regular,FALSE,TRUE,AmFirst Stadium,Jacksonville State,Conference USA,21,Sam Houston,Conference USA,11,11/23/2024,16312
+401641006,14,regular,FALSE,TRUE,Houchens Industries-L.T. Smith Stadium,Western Kentucky,Conference USA,19,Jacksonville State,Conference USA,17,11/30/2024,6547
+401673466,15,regular,FALSE,TRUE,AmFirst Stadium,Jacksonville State,Conference USA,52,Western Kentucky,Conference USA,12,12/06/2024,15628
+401677083,1,postseason,TRUE,FALSE,Camping World Stadium,Jacksonville State,Conference USA,27,Ohio,Mid-American,30,12/20/2024,10518
+401643777,2,regular,FALSE,FALSE,Bridgeforth Stadium,James Madison,Sun Belt,13,Gardner-Webb,Big South-OVC,6,09/07/2024,24570
+401635556,4,regular,FALSE,FALSE,Kenan Stadium,North Carolina,ACC,50,James Madison,Sun Belt,70,09/21/2024,50500
+401643801,6,regular,FALSE,TRUE,Malone Stadium,UL Monroe,Sun Belt,21,James Madison,Sun Belt,19,10/05/2024,19976
+401643817,9,regular,FALSE,TRUE,Bridgeforth Stadium,James Madison,Sun Belt,32,Southern Miss,Sun Belt,15,10/26/2024,25399
+401643833,12,regular,FALSE,TRUE,S.B. Ballard Stadium,Old Dominion,Sun Belt,32,James Madison,Sun Belt,35,11/16/2024,21984
+401643846,14,regular,FALSE,TRUE,Bridgeforth Stadium,James Madison,Sun Belt,33,Marshall,Sun Belt,35,11/30/2024,23341
+401677079,1,postseason,TRUE,FALSE,FAU Stadium,James Madison,Sun Belt,27,Western Kentucky,Conference USA,17,12/18/2024,15808
+401641015,1,regular,FALSE,FALSE,Alamodome,UTSA,American Athletic,28,Kennesaw State,Conference USA,16,08/31/2024,25911
+401641016,2,regular,FALSE,FALSE,Fifth Third Stadium,Kennesaw State,Conference USA,10,Louisiana,Sun Belt,34,09/07/2024,11040
+401641017,3,regular,FALSE,FALSE,CEFCU Stadium,San José State,Mountain West,31,Kennesaw State,Conference USA,10,09/14/2024,11090
+401641018,5,regular,FALSE,FALSE,Fifth Third Stadium,Kennesaw State,Conference USA,13,UT Martin,Big South-OVC,24,09/28/2024,10847
+401641019,8,regular,FALSE,TRUE,"Johnny ""Red"" Floyd Stadium",Middle Tennessee,Conference USA,14,Kennesaw State,Conference USA,5,10/15/2024,10200
+401640993,9,regular,FALSE,TRUE,Fifth Third Stadium,Kennesaw State,Conference USA,27,Liberty,Conference USA,24,10/23/2024,8209
+401641020,10,regular,FALSE,TRUE,Houchens Industries-L.T. Smith Stadium,Western Kentucky,Conference USA,31,Kennesaw State,Conference USA,14,10/30/2024,14547
+401641021,11,regular,FALSE,TRUE,Sun Bowl,UTEP,Conference USA,43,Kennesaw State,Conference USA,35,11/09/2024,14728
+401641022,12,regular,FALSE,TRUE,Fifth Third Stadium,Kennesaw State,Conference USA,17,Sam Houston,Conference USA,23,11/16/2024,7736
+401641014,14,regular,FALSE,TRUE,Joe Aillet Stadium,Louisiana Tech,Conference USA,33,Kennesaw State,Conference USA,0,11/30/2024,14686
+401634305,1,regular,FALSE,FALSE,Acrisure Stadium,Pittsburgh,ACC,55,Kent State,Mid-American,24,08/31/2024,44616
+401644732,2,regular,FALSE,FALSE,Dix Stadium,Kent State,Mid-American,17,St. Francis (PA),NEC,23,09/07/2024,11585
+401628360,3,regular,FALSE,FALSE,Neyland Stadium,Tennessee,SEC,71,Kent State,Mid-American,0,09/14/2024,101915
+401628493,4,regular,FALSE,FALSE,Beaver Stadium,Penn State,Big Ten,56,Kent State,Mid-American,0,09/21/2024,109526
+401644756,9,regular,FALSE,TRUE,Waldo Stadium,Western Michigan,Mid-American,52,Kent State,Mid-American,21,10/26/2024,23537
+401644761,11,regular,FALSE,TRUE,Dix Stadium,Kent State,Mid-American,0,Ohio,Mid-American,41,11/06/2024,5662
+401644689,12,regular,FALSE,TRUE,Yager Stadium,Miami (OH),Mid-American,34,Kent State,Mid-American,7,11/13/2024,5328
+401628586,1,regular,FALSE,FALSE,Williams Stadium (VA),Liberty,Conference USA,41,Campbell,CAA,24,08/31/2024,21573
+401640989,2,regular,FALSE,TRUE,Aggie Memorial Stadium,New Mexico State,Conference USA,24,Liberty,Conference USA,30,09/07/2024,16562
+401640990,3,regular,FALSE,TRUE,Williams Stadium (VA),Liberty,Conference USA,28,UTEP,Conference USA,10,09/14/2024,21805
+401640995,11,regular,FALSE,TRUE,"Johnny ""Red"" Floyd Stadium",Middle Tennessee,Conference USA,17,Liberty,Conference USA,37,11/09/2024,13500
+401629046,12,regular,FALSE,FALSE,Warren McGuirk Alumni Stadium,Massachusetts,FBS Independents,34,Liberty,Conference USA,35,11/16/2024,9115
+401640996,13,regular,FALSE,TRUE,Williams Stadium (VA),Liberty,Conference USA,38,Western Kentucky,Conference USA,21,11/23/2024,17930
+401640997,14,regular,FALSE,TRUE,Elliott T. Bowers Stadium,Sam Houston,Conference USA,20,Liberty,Conference USA,18,11/29/2024,8651
+401636380,1,regular,FALSE,FALSE,Cajun Field,Louisiana,Sun Belt,40,Grambling,SWAC,10,08/31/2024,23107
+401643791,4,regular,FALSE,FALSE,Cajun Field,Louisiana,Sun Belt,33,Tulane,American Athletic,41,09/21/2024,22534
+401635659,5,regular,FALSE,FALSE,Allegacy Federal Credit Union Stadium,Wake Forest,ACC,38,Louisiana,Sun Belt,41,09/28/2024,31061
+401643802,6,regular,FALSE,TRUE,M. M. Roberts Stadium,Southern Miss,Sun Belt,13,Louisiana,Sun Belt,23,10/05/2024,24041
+401643820,10,regular,FALSE,TRUE,Bobcat Stadium (TX),Texas State,Sun Belt,17,Louisiana,Sun Belt,23,10/29/2024,16831
+401643834,12,regular,FALSE,TRUE,Cajun Field,Louisiana,Sun Belt,22,South Alabama,Sun Belt,24,11/16/2024,16063
+401643840,13,regular,FALSE,TRUE,Cajun Field,Louisiana,Sun Belt,51,Troy,Sun Belt,30,11/23/2024,15501
+401643848,14,regular,FALSE,TRUE,Malone Stadium,UL Monroe,Sun Belt,23,Louisiana,Sun Belt,37,11/30/2024,15006
+401673470,15,regular,FALSE,TRUE,Cajun Field,Louisiana,Sun Belt,3,Marshall,Sun Belt,31,12/07/2024,20067
+401677096,1,postseason,TRUE,FALSE,University Stadium (NM),TCU,Big 12,34,Louisiana,Sun Belt,3,12/28/2024,22827
+401641007,1,regular,FALSE,FALSE,Joe Aillet Stadium,Louisiana Tech,Conference USA,25,Nicholls,Southland,17,08/31/2024,16570
+401635546,3,regular,FALSE,FALSE,Carter-Finley Stadium,NC State,ACC,30,Louisiana Tech,Conference USA,20,09/14/2024,56919
+401641008,4,regular,FALSE,FALSE,Joe Aillet Stadium,Louisiana Tech,Conference USA,20,Tulsa,American Athletic,23,09/21/2024,18152
+401641009,7,regular,FALSE,TRUE,Joe Aillet Stadium,Louisiana Tech,Conference USA,48,Middle Tennessee,Conference USA,21,10/10/2024,15072
+401641010,8,regular,FALSE,TRUE,Aggie Memorial Stadium,New Mexico State,Conference USA,33,Louisiana Tech,Conference USA,30,10/15/2024,9671
+401641011,9,regular,FALSE,TRUE,Joe Aillet Stadium,Louisiana Tech,Conference USA,14,UTEP,Conference USA,10,10/22/2024,15168
+401641012,10,regular,FALSE,TRUE,Elliott T. Bowers Stadium,Sam Houston,Conference USA,9,Louisiana Tech,Conference USA,3,10/29/2024,9128
+401641013,12,regular,FALSE,TRUE,Houchens Industries-L.T. Smith Stadium,Western Kentucky,Conference USA,7,Louisiana Tech,Conference USA,12,11/16/2024,13312
+401628427,13,regular,FALSE,FALSE,Razorback Stadium,Arkansas,SEC,35,Louisiana Tech,Conference USA,14,11/23/2024,66041
+401636387,1,regular,FALSE,FALSE,Malone Stadium,UL Monroe,Sun Belt,30,Jackson State,SWAC,14,08/29/2024,11145
+401643780,2,regular,FALSE,FALSE,Malone Stadium,UL Monroe,Sun Belt,32,UAB,American Athletic,6,09/07/2024,12327
+401628371,4,regular,FALSE,FALSE,DKR-Texas Memorial Stadium,Texas,SEC,51,UL Monroe,Sun Belt,3,09/21/2024,102850
+401643796,5,regular,FALSE,TRUE,Veterans Memorial Stadium (AL),Troy,Sun Belt,9,UL Monroe,Sun Belt,13,09/28/2024,21253
+401643807,7,regular,FALSE,TRUE,Malone Stadium,UL Monroe,Sun Belt,38,Southern Miss,Sun Belt,21,10/12/2024,22645
+401643819,9,regular,FALSE,TRUE,Hancock Whitney Stadium,South Alabama,Sun Belt,46,UL Monroe,Sun Belt,17,10/26/2024,16746
+401643822,10,regular,FALSE,TRUE,Joan C. Edwards Stadium,Marshall,Sun Belt,28,UL Monroe,Sun Belt,23,11/02/2024,21478
+401643828,11,regular,FALSE,TRUE,Malone Stadium,UL Monroe,Sun Belt,17,Texas State,Sun Belt,38,11/09/2024,13720
+401628426,12,regular,FALSE,FALSE,Jordan-Hare Stadium,Auburn,SEC,48,UL Monroe,Sun Belt,14,11/16/2024,88043
+401628590,1,regular,FALSE,FALSE,Joan C. Edwards Stadium,Marshall,Sun Belt,45,Stony Brook,CAA,3,08/31/2024,25032
+401635540,2,regular,FALSE,FALSE,Lane Stadium,Virginia Tech,ACC,31,Marshall,Sun Belt,14,09/07/2024,65632
+401628492,4,regular,FALSE,FALSE,Ohio Stadium,Ohio State,Big Ten,49,Marshall,Sun Belt,14,09/21/2024,103871
+401643794,5,regular,FALSE,FALSE,Joan C. Edwards Stadium,Marshall,Sun Belt,27,Western Michigan,Mid-American,20,09/28/2024,18723
+401643829,11,regular,FALSE,TRUE,M. M. Roberts Stadium,Southern Miss,Sun Belt,3,Marshall,Sun Belt,37,11/09/2024,20502
+401643838,13,regular,FALSE,TRUE,S.B. Ballard Stadium,Old Dominion,Sun Belt,35,Marshall,Sun Belt,42,11/23/2024,18083
+401645321,1,regular,FALSE,FALSE,Simmons Bank Liberty Stadium,Memphis,American Athletic,40,North Alabama,UAC,0,08/31/2024,25849
+401643784,2,regular,FALSE,FALSE,Simmons Bank Liberty Stadium,Memphis,American Athletic,38,Troy,Sun Belt,17,09/07/2024,23246
+401635542,3,regular,FALSE,FALSE,Doak Campbell Stadium,Florida State,ACC,12,Memphis,American Athletic,20,09/14/2024,55107
+401645329,4,regular,FALSE,TRUE,Navy-Marine Corps Memorial Stadium,Navy,American Athletic,56,Memphis,American Athletic,44,09/21/2024,31268
+401641025,5,regular,FALSE,FALSE,Simmons Bank Liberty Stadium,Memphis,American Athletic,24,Middle Tennessee,Conference USA,7,09/28/2024,25266
+401645341,7,regular,TRUE,TRUE,Camping World Stadium,South Florida,American Athletic,3,Memphis,American Athletic,21,10/12/2024,3365
+401645349,8,regular,FALSE,TRUE,Simmons Bank Liberty Stadium,Memphis,American Athletic,52,North Texas,American Athletic,44,10/19/2024,24110
+401645359,10,regular,FALSE,TRUE,Alamodome,UTSA,American Athletic,44,Memphis,American Athletic,36,11/02/2024,17198
+401645362,11,regular,FALSE,TRUE,Simmons Bank Liberty Stadium,Memphis,American Athletic,27,Rice,American Athletic,20,11/08/2024,23692
+401645367,12,regular,FALSE,TRUE,Simmons Bank Liberty Stadium,Memphis,American Athletic,53,UAB,American Athletic,18,11/16/2024,24225
+401645376,14,regular,FALSE,TRUE,Yulman Stadium,Tulane,American Athletic,24,Memphis,American Athletic,34,11/28/2024,25021
+401677080,1,postseason,TRUE,FALSE,Toyota Stadium,West Virginia,Big 12,37,Memphis,American Athletic,42,12/17/2024,12022
+401644683,1,regular,TRUE,FALSE,Lanny and Sharon Martin Stadium,Northwestern,Big Ten,13,Miami (OH),Mid-American,6,08/31/2024,12023
+401636865,3,regular,FALSE,FALSE,Yager Stadium,Miami (OH),Mid-American,16,Cincinnati,Big 12,27,09/14/2024,24717
+401628979,4,regular,FALSE,FALSE,Notre Dame Stadium,Notre Dame,FBS Independents,28,Miami (OH),Mid-American,3,09/21/2024,77622
+401629043,5,regular,FALSE,FALSE,Yager Stadium,Miami (OH),Mid-American,23,Massachusetts,FBS Independents,20,09/28/2024,9542
+401644684,6,regular,FALSE,TRUE,Glass Bowl,Toledo,Mid-American,30,Miami (OH),Mid-American,20,10/05/2024,25027
+401644686,8,regular,FALSE,TRUE,Yager Stadium,Miami (OH),Mid-American,30,Ohio,Mid-American,20,10/19/2024,17021
+401644690,13,regular,FALSE,TRUE,Yager Stadium,Miami (OH),Mid-American,20,Northern Illinois,Mid-American,9,11/19/2024,5891
+401673467,15,regular,TRUE,TRUE,Ford Field,Miami (OH),Mid-American,3,Ohio,Mid-American,38,12/07/2024,15478
+401641023,1,regular,FALSE,FALSE,"Johnny ""Red"" Floyd Stadium",Middle Tennessee,Conference USA,32,Tennessee Tech,Big South-OVC,25,08/31/2024,16000
+401628342,2,regular,FALSE,FALSE,Vaught-Hemingway Stadium,Ole Miss,SEC,52,Middle Tennessee,Conference USA,3,09/07/2024,66427
+401641024,3,regular,FALSE,TRUE,"Johnny ""Red"" Floyd Stadium",Middle Tennessee,Conference USA,21,Western Kentucky,Conference USA,49,09/14/2024,12227
+401635553,4,regular,FALSE,FALSE,"Johnny ""Red"" Floyd Stadium",Middle Tennessee,Conference USA,17,Duke,ACC,45,09/21/2024,15209
+401641026,10,regular,FALSE,TRUE,Sun Bowl,UTEP,Conference USA,13,Middle Tennessee,Conference USA,20,11/02/2024,14775
+401641027,13,regular,FALSE,TRUE,"Johnny ""Red"" Floyd Stadium",Middle Tennessee,Conference USA,21,New Mexico State,Conference USA,36,11/23/2024,10123
+401645322,1,regular,FALSE,FALSE,Navy-Marine Corps Memorial Stadium,Navy,American Athletic,49,Bucknell,Patriot,21,08/31/2024,28763
+401645324,2,regular,FALSE,TRUE,Navy-Marine Corps Memorial Stadium,Navy,American Athletic,38,Temple,American Athletic,11,09/07/2024,28889
+401645332,5,regular,FALSE,TRUE,Protective Stadium,UAB,American Athletic,18,Navy,American Athletic,41,09/28/2024,21536
+401628983,9,regular,TRUE,FALSE,MetLife Stadium,Navy,American Athletic,14,Notre Dame,FBS Independents,51,10/26/2024,76112
+401645360,10,regular,FALSE,TRUE,Rice Stadium,Rice,American Athletic,24,Navy,American Athletic,10,11/02/2024,21253
+401645363,11,regular,FALSE,TRUE,Raymond James Stadium,South Florida,American Athletic,7,Navy,American Athletic,28,11/09/2024,34091
+401645370,12,regular,FALSE,TRUE,Navy-Marine Corps Memorial Stadium,Navy,American Athletic,0,Tulane,American Athletic,35,11/16/2024,38914
+401677090,1,postseason,TRUE,FALSE,Amon G. Carter Stadium,Navy,American Athletic,21,Oklahoma,SEC,20,12/27/2024,50754
+401643696,1,regular,FALSE,FALSE,Mackay Stadium,Nevada,Mountain West,24,SMU,ACC,29,08/24/2024,20263
+401643701,1,regular,FALSE,FALSE,Veterans Memorial Stadium (AL),Troy,Sun Belt,26,Nevada,Mountain West,28,08/31/2024,27412
+401628481,3,regular,FALSE,FALSE,Huntington Bank Stadium,Minnesota,Big Ten,27,Nevada,Mountain West,0,09/14/2024,44534
+401643713,4,regular,FALSE,FALSE,Mackay Stadium,Nevada,Mountain West,49,Eastern Washington,Big Sky,16,09/21/2024,16399
+401643726,6,regular,FALSE,TRUE,CEFCU Stadium,San José State,Mountain West,35,Nevada,Mountain West,31,10/05/2024,17099
+401643731,7,regular,FALSE,FALSE,Mackay Stadium,Nevada,Mountain West,42,Oregon State,Pac-12,37,10/12/2024,21541
+401643772,14,regular,FALSE,TRUE,Allegiant Stadium,UNLV,Mountain West,38,Nevada,Mountain West,14,11/30/2024,40122
+401643697,1,regular,FALSE,FALSE,University Stadium (NM),New Mexico,Mountain West,31,Montana State,Big Sky,35,11/08/2024,21832
+401636608,1,regular,FALSE,FALSE,Arizona Stadium,Arizona,Big 12,61,New Mexico,Mountain West,39,11/16/2024,14067
+401628352,3,regular,FALSE,FALSE,Jordan-Hare Stadium,Auburn,SEC,45,New Mexico,Mountain West,19,11/30/2024,12046
+401641035,5,regular,FALSE,FALSE,Aggie Memorial Stadium,New Mexico State,Conference USA,40,New Mexico,Mountain West,50,08/31/2024,44748
+401643737,8,regular,FALSE,TRUE,Maverik Stadium,Utah State,Mountain West,45,New Mexico,Mountain West,50,09/21/2024,18019
+401643750,10,regular,FALSE,TRUE,University Stadium (NM),New Mexico,Mountain West,45,Wyoming,Mountain West,49,10/12/2024,15561
+401643754,11,regular,FALSE,TRUE,Snapdragon Stadium,San Diego State,Mountain West,16,New Mexico,Mountain West,21,10/19/2024,14584
+401643761,12,regular,FALSE,FALSE,University Stadium (NM),New Mexico,Mountain West,38,Washington State,Pac-12,35,10/26/2024,36980
+401641032,1,regular,FALSE,FALSE,Aggie Memorial Stadium,New Mexico State,Conference USA,23,Southeast Missouri State,Big South-OVC,16,08/31/2024,10738
+401641034,4,regular,FALSE,TRUE,Elliott T. Bowers Stadium,Sam Houston,Conference USA,31,New Mexico State,Conference USA,11,09/21/2024,13059
+401641036,11,regular,FALSE,TRUE,Aggie Memorial Stadium,New Mexico State,Conference USA,28,Western Kentucky,Conference USA,41,11/09/2024,12710
+401628424,12,regular,FALSE,FALSE,Kyle Field,Texas A&M,SEC,38,New Mexico State,Conference USA,3,11/16/2024,105815
+401641031,14,regular,FALSE,TRUE,Aggie Memorial Stadium,New Mexico State,Conference USA,35,UTEP,Conference USA,42,11/30/2024,15358
+401643775,1,regular,FALSE,FALSE,Hancock Whitney Stadium,South Alabama,Sun Belt,38,North Texas,American Athletic,52,08/31/2024,15559
+401645325,2,regular,FALSE,FALSE,DATCU Stadium,North Texas,American Athletic,35,Stephen F. Austin,Southland,20,09/07/2024,23510
+401636868,3,regular,FALSE,FALSE,Jones AT&T Stadium,Texas Tech,Big 12,66,North Texas,American Athletic,21,09/14/2024,57865
+401643716,4,regular,FALSE,FALSE,DATCU Stadium,North Texas,American Athletic,44,Wyoming,Mountain West,17,09/21/2024,27049
+401645336,5,regular,FALSE,TRUE,DATCU Stadium,North Texas,American Athletic,52,Tulsa,American Athletic,20,09/28/2024,18529
+401645354,9,regular,FALSE,TRUE,DATCU Stadium,North Texas,American Athletic,37,Tulane,American Athletic,45,10/26/2024,23138
+401645366,12,regular,FALSE,TRUE,Alamodome,UTSA,American Athletic,48,North Texas,American Athletic,27,11/15/2024,21350
+401645381,14,regular,FALSE,TRUE,Lincoln Financial Field,Temple,American Athletic,17,North Texas,American Athletic,24,11/30/2024,11589
+401677106,1,postseason,TRUE,FALSE,Gerald J. Ford Stadium,Texas State,Sun Belt,30,North Texas,American Athletic,28,01/03/2025,28725
+401644731,1,regular,FALSE,FALSE,Huskie Stadium,Northern Illinois,Mid-American,54,Western Illinois,Big South-OVC,15,08/31/2024,10828
+401628977,2,regular,FALSE,FALSE,Notre Dame Stadium,Notre Dame,FBS Independents,14,Northern Illinois,Mid-American,16,09/07/2024,77622
+401635564,5,regular,FALSE,FALSE,Carter-Finley Stadium,NC State,ACC,24,Northern Illinois,Mid-American,17,09/28/2024,56919
+401629044,6,regular,FALSE,FALSE,Huskie Stadium,Northern Illinois,Mid-American,34,Massachusetts,FBS Independents,20,10/05/2024,12466
+401644751,8,regular,FALSE,TRUE,Huskie Stadium,Northern Illinois,Mid-American,6,Toledo,Mid-American,13,10/19/2024,18350
+401644762,11,regular,FALSE,TRUE,Waldo Stadium,Western Michigan,Mid-American,28,Northern Illinois,Mid-American,42,11/06/2024,10346
+401634304,1,regular,FALSE,FALSE,JMA Wireless Dome,Syracuse,ACC,38,Ohio,Mid-American,22,08/31/2024,37225
+401643781,2,regular,FALSE,FALSE,Peden Stadium,Ohio,Mid-American,27,South Alabama,Sun Belt,20,09/07/2024,22158
+401644734,3,regular,FALSE,FALSE,Peden Stadium,Ohio,Mid-American,21,Morgan State,MEAC,6,09/14/2024,20438
+401628364,4,regular,FALSE,FALSE,Kroger Field,Kentucky,SEC,41,Ohio,Mid-American,6,09/21/2024,61783
+401644773,13,regular,FALSE,TRUE,Glass Bowl,Toledo,Mid-American,7,Ohio,Mid-American,24,11/20/2024,14543
+401628329,1,regular,FALSE,FALSE,Williams-Brice Stadium,South Carolina,SEC,23,Old Dominion,Sun Belt,19,08/31/2024,78496
+401635548,3,regular,FALSE,FALSE,S.B. Ballard Stadium,Old Dominion,Sun Belt,17,Virginia Tech,ACC,37,09/14/2024,22208
+401643813,8,regular,FALSE,TRUE,S.B. Ballard Stadium,Old Dominion,Sun Belt,24,Texas State,Sun Belt,14,10/19/2024,19129
+401641039,1,regular,FALSE,FALSE,Rice Stadium,Rice,American Athletic,14,Sam Houston,Conference USA,34,08/31/2024,17298
+401645326,2,regular,FALSE,FALSE,Rice Stadium,Rice,American Athletic,69,Texas Southern,SWAC,7,09/07/2024,17760
+401636862,3,regular,FALSE,FALSE,TDECU Stadium,Houston,Big 12,33,Rice,American Athletic,7,09/14/2024,28146
+401645344,7,regular,FALSE,TRUE,Rice Stadium,Rice,American Athletic,29,UTSA,American Athletic,27,10/12/2024,18660
+401645350,8,regular,FALSE,TRUE,Yulman Stadium,Tulane,American Athletic,24,Rice,American Athletic,10,10/19/2024,22897
+401629035,9,regular,FALSE,FALSE,Pratt & Whitney Stadium,UConn,FBS Independents,17,Rice,American Athletic,10,10/26/2024,23711
+401645373,13,regular,FALSE,TRUE,Protective Stadium,UAB,American Athletic,40,Rice,American Athletic,14,11/23/2024,16181
+401645382,14,regular,FALSE,TRUE,Rice Stadium,Rice,American Athletic,35,South Florida,American Athletic,28,11/30/2024,16430
+401636617,2,regular,FALSE,FALSE,FBC Mortgage Stadium,UCF,Big 12,45,Sam Houston,Conference USA,14,09/07/2024,43807
+401641041,5,regular,TRUE,FALSE,NRG Stadium,Sam Houston,Conference USA,40,Texas State,Sun Belt,39,09/28/2024,27225
+401641029,6,regular,FALSE,TRUE,Sun Bowl,UTEP,Conference USA,21,Sam Houston,Conference USA,41,10/03/2024,14454
+401641038,8,regular,FALSE,TRUE,Elliott T. Bowers Stadium,Sam Houston,Conference USA,14,Western Kentucky,Conference USA,31,10/16/2024,8914
+401643702,1,regular,FALSE,FALSE,Snapdragon Stadium,San Diego State,Mountain West,45,East Texas A&M,Southland,14,08/31/2024,25180
+401643709,2,regular,FALSE,FALSE,Snapdragon Stadium,San Diego State,Mountain West,0,Oregon State,Pac-12,21,09/07/2024,25318
+401635541,3,regular,FALSE,FALSE,California Memorial Stadium,California,ACC,31,San Diego State,Mountain West,10,09/14/2024,35197
+401643732,7,regular,FALSE,TRUE,War Memorial Stadium,Wyoming,Mountain West,24,San Diego State,Mountain West,27,10/12/2024,23155
+401643744,9,regular,FALSE,FALSE,Snapdragon Stadium,San Diego State,Mountain West,26,Washington State,Pac-12,29,10/26/2024,26937
+401643762,12,regular,FALSE,TRUE,Allegiant Stadium,UNLV,Mountain West,41,San Diego State,Mountain West,20,11/16/2024,30386
+401643766,13,regular,FALSE,TRUE,Maverik Stadium,Utah State,Mountain West,41,San Diego State,Mountain West,20,11/23/2024,12583
+401643698,1,regular,FALSE,FALSE,CEFCU Stadium,San José State,Mountain West,42,Sacramento State,Big Sky,24,12/24/2024,6720
+401643714,4,regular,FALSE,FALSE,Gesa Field,Washington State,Pac-12,54,San José State,Mountain West,52,11/16/2024,20517
+401643738,8,regular,FALSE,TRUE,CEFCU Stadium,San José State,Mountain West,24,Wyoming,Mountain West,14,10/19/2024,17101
+401643755,11,regular,FALSE,FALSE,Reser Stadium,Oregon State,Pac-12,13,San José State,Mountain West,24,10/05/2024,17099
+401643767,13,regular,FALSE,TRUE,CEFCU Stadium,San José State,Mountain West,16,UNLV,Mountain West,27,09/14/2024,11090
+401635625,14,regular,FALSE,FALSE,CEFCU Stadium,San José State,Mountain West,34,Stanford,ACC,31,09/07/2024,22478
+401677087,1,postseason,TRUE,FALSE,Clarence T.C. Ching Athletics Complex,San José State,Mountain West,39,South Florida,American Athletic,41,08/29/2024,13811
+401643788,3,regular,FALSE,FALSE,Hancock Whitney Stadium,South Alabama,Sun Belt,87,Northwestern State,Southland,10,09/12/2024,16023
+401628376,5,regular,FALSE,FALSE,Tiger Stadium (LA),LSU,SEC,42,South Alabama,Sun Belt,10,09/28/2024,102143
+401643809,8,regular,FALSE,TRUE,Hancock Whitney Stadium,South Alabama,Sun Belt,25,Troy,Sun Belt,9,10/15/2024,25450
+401643841,13,regular,FALSE,TRUE,M. M. Roberts Stadium,Southern Miss,Sun Belt,14,South Alabama,Sun Belt,35,11/23/2024,20074
+401643843,14,regular,FALSE,TRUE,Hancock Whitney Stadium,South Alabama,Sun Belt,38,Texas State,Sun Belt,45,11/29/2024,15569
+401677077,1,postseason,TRUE,FALSE,Cramton Bowl,Western Michigan,Mid-American,23,South Alabama,Sun Belt,30,12/14/2024,12021
+401636363,1,regular,FALSE,FALSE,Raymond James Stadium,South Florida,American Athletic,48,Bethune-Cookman,SWAC,3,08/31/2024,36694
+401628335,2,regular,FALSE,FALSE,Bryant-Denny Stadium,Alabama,SEC,42,South Florida,American Athletic,16,09/07/2024,100077
+401643789,3,regular,FALSE,FALSE,M. M. Roberts Stadium,Southern Miss,Sun Belt,24,South Florida,American Athletic,49,09/14/2024,23537
+401635555,4,regular,FALSE,FALSE,Raymond James Stadium,South Florida,American Athletic,15,Miami,ACC,50,09/21/2024,58616
+401645337,5,regular,FALSE,TRUE,Yulman Stadium,Tulane,American Athletic,45,South Florida,American Athletic,10,09/28/2024,20783
+401645345,8,regular,FALSE,TRUE,Raymond James Stadium,South Florida,American Athletic,35,UAB,American Athletic,25,10/19/2024,28154
+401645375,13,regular,FALSE,TRUE,Raymond James Stadium,South Florida,American Athletic,63,Tulsa,American Athletic,30,11/23/2024,27623
+401628324,1,regular,FALSE,FALSE,Kroger Field,Kentucky,SEC,31,Southern Miss,Sun Belt,0,08/31/2024,61627
+401643782,2,regular,FALSE,FALSE,M. M. Roberts Stadium,Southern Miss,Sun Belt,35,SE Louisiana,Southland,10,09/07/2024,22044
+401643835,12,regular,FALSE,TRUE,Bobcat Stadium (TX),Texas State,Sun Belt,58,Southern Miss,Sun Belt,3,11/16/2024,22618
+401643849,14,regular,FALSE,TRUE,Veterans Memorial Stadium (AL),Troy,Sun Belt,52,Southern Miss,Sun Belt,20,11/30/2024,19521
+401628328,1,regular,FALSE,FALSE,"Memorial Stadium (Norman, OK)",Oklahoma,SEC,51,Temple,American Athletic,3,08/30/2024,83329
+401643715,4,regular,FALSE,FALSE,Lincoln Financial Field,Temple,American Athletic,45,Utah State,Mountain West,29,09/21/2024,11384
+401629033,6,regular,FALSE,FALSE,Pratt & Whitney Stadium,UConn,FBS Independents,29,Temple,American Athletic,20,10/05/2024,28921
+401645351,8,regular,FALSE,TRUE,Lincoln Financial Field,Temple,American Athletic,20,Tulsa,American Athletic,10,10/19/2024,18721
+401645364,11,regular,FALSE,TRUE,Yulman Stadium,Tulane,American Athletic,52,Temple,American Athletic,6,11/09/2024,30000
+401645374,13,regular,FALSE,TRUE,Alamodome,UTSA,American Athletic,51,Temple,American Athletic,27,11/22/2024,20121
+401643776,1,regular,FALSE,FALSE,Bobcat Stadium (TX),Texas State,Sun Belt,34,Lamar,Southland,27,08/31/2024,19637
+401643783,2,regular,FALSE,FALSE,Bobcat Stadium (TX),Texas State,Sun Belt,49,UTSA,American Athletic,10,09/07/2024,28000
+401636867,3,regular,FALSE,FALSE,Bobcat Stadium (TX),Texas State,Sun Belt,28,Arizona State,Big 12,31,09/12/2024,25187
+401643797,6,regular,FALSE,TRUE,Veterans Memorial Stadium (AL),Troy,Sun Belt,17,Texas State,Sun Belt,38,10/03/2024,20349
+401644728,1,regular,FALSE,FALSE,Glass Bowl,Toledo,Mid-American,49,Duquesne,NEC,10,08/29/2024,23515
+401629040,2,regular,FALSE,FALSE,Glass Bowl,Toledo,Mid-American,38,Massachusetts,FBS Independents,23,09/07/2024,21668
+401628356,3,regular,FALSE,FALSE,Davis Wade Stadium,Mississippi State,SEC,17,Toledo,Mid-American,41,09/14/2024,47412
+401641037,4,regular,FALSE,FALSE,Houchens Industries-L.T. Smith Stadium,Western Kentucky,Conference USA,26,Toledo,Mid-American,21,09/21/2024,19127
+401677180,1,postseason,TRUE,FALSE,Ford Field,Toledo,Mid-American,48,Pittsburgh,ACC,46,12/26/2024,26219
+401628477,3,regular,FALSE,FALSE,Kinnick Stadium,Iowa,Big Ten,38,Troy,Sun Belt,21,09/14/2024,69250
+401636374,4,regular,FALSE,FALSE,Veterans Memorial Stadium (AL),Troy,Sun Belt,34,Florida A&M,SWAC,12,09/21/2024,29024
+401645317,1,regular,FALSE,FALSE,Yulman Stadium,Tulane,American Athletic,52,SE Louisiana,Southland,0,08/29/2024,20143
+401636616,2,regular,FALSE,FALSE,Yulman Stadium,Tulane,American Athletic,27,Kansas State,Big 12,34,09/07/2024,25034
+401628358,3,regular,FALSE,FALSE,"Memorial Stadium (Norman, OK)",Oklahoma,SEC,34,Tulane,American Athletic,19,09/14/2024,83325
+401645338,6,regular,FALSE,TRUE,Protective Stadium,UAB,American Athletic,20,Tulane,American Athletic,71,10/05/2024,19724
+401677084,1,postseason,TRUE,FALSE,Raymond James Stadium,Florida,SEC,33,Tulane,American Athletic,8,12/20/2024,41472
+401645318,1,regular,FALSE,FALSE,Chapman Stadium,Tulsa,American Athletic,62,Northwestern State,Southland,28,08/29/2024,16483
+401636869,3,regular,FALSE,FALSE,Chapman Stadium,Tulsa,American Athletic,10,Oklahoma State,Big 12,45,09/14/2024,30915
+401645355,9,regular,FALSE,TRUE,Chapman Stadium,Tulsa,American Athletic,46,UTSA,American Athletic,45,10/26/2024,17439
+401645358,10,regular,FALSE,TRUE,Protective Stadium,UAB,American Athletic,59,Tulsa,American Athletic,21,11/02/2024,17944
+401645316,1,regular,FALSE,FALSE,Protective Stadium,UAB,American Athletic,41,Alcorn State,SWAC,3,08/29/2024,21267
+401628351,3,regular,FALSE,FALSE,Razorback Stadium,Arkansas,SEC,37,UAB,American Athletic,27,09/14/2024,75021
+401629037,11,regular,FALSE,FALSE,Protective Stadium,UAB,American Athletic,23,UConn,FBS Independents,31,11/09/2024,18351
+401636611,1,regular,FALSE,FALSE,TDECU Stadium,Houston,Big 12,7,UNLV,Mountain West,27,08/31/2024,25750
+401632071,2,regular,FALSE,FALSE,Allegiant Stadium,UNLV,Mountain West,72,Utah Tech,UAC,14,09/07/2024,24512
+401636863,3,regular,TRUE,FALSE,Children's Mercy Park,Kansas,Big 12,20,UNLV,Mountain West,23,09/13/2024,21493
+401634779,6,regular,FALSE,FALSE,Allegiant Stadium,UNLV,Mountain West,41,Syracuse,ACC,44,10/04/2024,31329
+401643733,7,regular,FALSE,TRUE,Maverik Stadium,Utah State,Mountain West,34,UNLV,Mountain West,50,10/11/2024,20295
+401643739,8,regular,FALSE,FALSE,Reser Stadium,Oregon State,Pac-12,25,UNLV,Mountain West,33,10/19/2024,35195
+401677081,1,postseason,TRUE,FALSE,SoFi Stadium,UNLV,Mountain West,24,California,ACC,13,12/18/2024,24420
+401628454,1,regular,FALSE,FALSE,"Memorial Stadium (Lincoln, NE)",Nebraska,Big Ten,40,UTEP,Conference USA,7,08/31/2024,86072
+401632072,2,regular,FALSE,FALSE,Sun Bowl,UTEP,Conference USA,24,Southern Utah,UAC,27,09/07/2024,41633
+401641030,7,regular,FALSE,TRUE,Houchens Industries-L.T. Smith Stadium,Western Kentucky,Conference USA,44,UTEP,Conference USA,17,10/10/2024,12723
+401628435,13,regular,FALSE,FALSE,Neyland Stadium,Tennessee,SEC,56,UTEP,Conference USA,0,11/23/2024,101915
+401628361,3,regular,FALSE,FALSE,DKR-Texas Memorial Stadium,Texas,SEC,56,UTSA,American Athletic,7,9/14/2024,101892
+401645330,4,regular,FALSE,FALSE,Alamodome,UTSA,American Athletic,45,Houston Christian,Southland,7,9/21/2024,20973
+401643703,1,regular,FALSE,FALSE,Maverik Stadium,Utah State,Mountain West,36,Robert Morris,NEC,14,08/31/2024,17037
+401628472,2,regular,FALSE,FALSE,Los Angeles Memorial Coliseum,USC,Big Ten,48,Utah State,Mountain West,0,09/07/2024,68110
+401636870,3,regular,FALSE,FALSE,Maverik Stadium,Utah State,Mountain West,21,Utah,Big 12,38,09/14/2024,24107
+401643745,9,regular,FALSE,TRUE,War Memorial Stadium,Wyoming,Mountain West,25,Utah State,Mountain West,27,10/26/2024,17724
+401643756,11,regular,FALSE,FALSE,Gesa Field,Washington State,Pac-12,49,Utah State,Mountain West,28,11/09/2024,20011
+401628319,1,regular,FALSE,FALSE,Bryant-Denny Stadium,Alabama,SEC,63,Western Kentucky,Conference USA,0,08/31/2024,100077
+401632068,2,regular,FALSE,FALSE,Houchens Industries-L.T. Smith Stadium,Western Kentucky,Conference USA,31,Eastern Kentucky,UAC,0,09/07/2024,16712
+401635560,5,regular,FALSE,FALSE,"Alumni Stadium (Chestnut Hill, MA)",Boston College,ACC,21,Western Kentucky,Conference USA,20,09/28/2024,41403
+401628461,1,regular,FALSE,FALSE,Camp Randall Stadium,Wisconsin,Big Ten,28,Western Michigan,Mid-American,14,08/30/2024,75158
+401628468,2,regular,FALSE,FALSE,Ohio Stadium,Ohio State,Big Ten,56,Western Michigan,Mid-American,0,09/07/2024,102665
+401636364,3,regular,FALSE,FALSE,Waldo Stadium,Western Michigan,Mid-American,59,Bethune-Cookman,SWAC,31,09/14/2024,23476
+401636609,1,regular,FALSE,FALSE,Mountain America Stadium,Arizona State,Big 12,48,Wyoming,Mountain West,7,08/31/2024,48108
+401643710,2,regular,FALSE,FALSE,War Memorial Stadium,Wyoming,Mountain West,13,Idaho,Big Sky,17,09/07/2024,25070
+401636871,3,regular,FALSE,FALSE,War Memorial Stadium,Wyoming,Mountain West,14,BYU,Big 12,34,09/14/2024,24513
+401643773,14,regular,FALSE,FALSE,Gesa Field,Washington State,Pac-12,14,Wyoming,Mountain West,15,11/30/2024,17088
